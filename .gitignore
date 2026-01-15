@@ -1,0 +1,33 @@
+# Python / Backend
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.env
+.venv
+
+# Database
+*.db
+*.sqlite3
+
+# Distribution / Packaging
+dist/
+build/
+*.egg-info/
+
+# Frontend / Node
+node_modules/
+npm-debug.log
+yarn-error.log
+.DS_Store
+
+# IDEs
+.vscode/
+.idea/
+
+# Testing/Coverage
+.coverage
+htmlcov/
