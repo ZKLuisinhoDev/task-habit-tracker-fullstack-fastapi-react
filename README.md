@@ -126,4 +126,4 @@ Para un entorno de producción, asegúrate de:
 
 ---
 
-Hecho con ❤️ por [Tu Nombre] para demostrar habilidades Full Stack.
+Hecho por [Luis Felipe Lasso Cuastumal](https://github.com/ZKLuisinhoDev)
